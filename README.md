@@ -3,9 +3,9 @@ BlenderScripts
 
 Scripts for to make Blender do things better:
 
-* BlenderMakeBoneNamesUnique.py - Gives each bone a unique name.  Useful for e.g., preparing duplicated armatures for export to Collada.
-* BlenderMakeMaterials8Bit.py - Modifies ALL existing materials & textures in a scene to be 8-bit friendly: perfectly diffuse with sharp texture interpolation.
-* BlenderBatchExport.py - Shell script to export multiple .blend files.  Useful for integrating Blender into a content pipeline.  Works out of the box with included example .blend file, but should be modified to your specific needs.
+* **BlenderMakeBoneNamesUnique.py** - Gives each bone a unique name.  Useful for e.g., preparing duplicated armatures for export to Collada.
+* **BlenderMakeMaterials8Bit.py** - Modifies ALL existing materials & textures in a scene to be 8-bit friendly: perfectly diffuse with sharp texture interpolation.
+* **BlenderBatchExport.py** - Shell script to export multiple .blend files.  Useful for integrating Blender into a content pipeline.  Works out of the box with included example .blend file, but should be modified to your specific needs.
 
 **Example:**
 
